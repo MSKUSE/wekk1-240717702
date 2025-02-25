@@ -1,3 +1,4 @@
 # week1
-This is a week one starter code 
-Please write your name and ID here and push it to GitHub.
+This is a week one starter
+name:Tawfik Nabil Alasnag   
+ID NO :240717702
